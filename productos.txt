@@ -1,0 +1,32 @@
+Lavaloza Quix 1.2l,500319137,3090,20,Aseo,no
+Pack Mankeke 8un,780347300,1590,42,Abarrotes,2,300
+Drive Detergente.500ml,789115007,7590,45,Aseo,no
+Galleta Mckay Soda,780223008,929,213,Abarrotes,1,100
+Pack Chocman,780221530,1849,89,Abarrotes,2,264
+T.Tena Maxi 60Un,770202747,14990,76,Aseo,si
+Fideo de Arroz,108490900,1399,65,Abarrotes,0,400
+Bidon Benedictino 20L,820442229,4590,32,Botilleria,0,no
+Spaguetti N5,500007021,820,2,Abarrotes,0,400
+Manjar Nestle,761328793,1090,5,Abarrotes,2,420
+Pack Confort 40un,397199808,18990,136,Aseo,si
+Polera Avengers,235678213,3990,6,Menaje,si,S
+Set Copas 6un,987412723,10990,12,Menaje,no
+Pack Cerveza LemonStones 6un,453786234,6990,21,Botilleria,0,si
+Torta Entera Chica,250009002,2950,Abarrotes,3,500
+Coca-Cola 3l,920423609,1790,Botilleria,1,no
+Camisa Guayabera,392412893,1490,Menaje,si,L
+Jugo Andina Naranja 1l,227470455,990,Botilleria,0,no
+Mermelada Mora Watts,810031037,899,Abarrotes,1,150
+Cepillo Dental,907457123,1799,Aseo,si
+Cereal Milo,287354082,2599,Abarrotes,2,700
+Jack Daniels Tennessee 750ml,124706036,24990,Botilleria,0,si
+Pepsi 1.5l,166062366,1710,Botilleria,1,no
+Aceite Maravilla Chef,264343412,99999,Abarrotes,0,1000
+Polera Seleccion Chilena,772891789,5990,Menaje,si,M
+Pantalon Buzo Azul,481927898,4590,Menaje,si,XL
+Arroz Tucapel,153870649,3990,Abarrotes,0,1000
+Chocolate Trencito,268941275,1789,Abarrotes,3,150
+Cubrecama 1 plaza,127648700,14890,Menaje,no
+Espumante Moscato,263732432,5530,Botilleria,0,si
+Canada Dry 1l,263282464,1710,Botilleria,2,no
+Suavizante Downy,180611854,5399,Aseo,no
